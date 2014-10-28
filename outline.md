@@ -5,7 +5,7 @@
   * pick the next week's material (goal is to have clear path of progress)
 * projects
   * Keep a list of ideas (git repo, give me access :)
-    * Is it Paleo?
+    * [Is it Paleo?](http://isitpaleo.info)
     * Lending library
       * search functionality (fuzzy/suggestion)
   * I'll come with a few starter ideas
