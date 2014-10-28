@@ -5,11 +5,8 @@
   * pick the next week's material (goal is to have clear path of progress)
 * projects
   * Keep a list of ideas (git repo, give me access :)
-    * Follow up with Blue Aaron - Mental health talk
-    * Follow up with Coraline   - Write/Speak code workshop
-    * Follow up with RT         - Thank him for helping
-    * Follow up with Chris Se   - Arlington Ruby mentorship
     * Is it Paleo?
+    * Lending library
       * search functionality (fuzzy/suggestion)
   * I'll come with a few starter ideas
 * practices
