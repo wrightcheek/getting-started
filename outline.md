@@ -6,8 +6,8 @@
 * projects
   * Keep a list of ideas (git repo, give me access :)
     * [Is it Paleo?](http://isitpaleo.info)
-    * Lending library
       * search functionality (fuzzy/suggestion)
+    * Lending library
   * I'll come with a few starter ideas
 * practices
   * pairing
