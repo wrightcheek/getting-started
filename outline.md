@@ -8,6 +8,8 @@
     * [Is it Paleo?](http://isitpaleo.info)
       * search functionality (fuzzy/suggestion)
     * Lending library
+    * Contribute to [cocobot](https://github.com/kalimar/cocobot)
+    * Make my own awesome IRC bot
   * I'll come with a few starter ideas
 * practices
   * pairing
